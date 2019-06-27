@@ -1,4 +1,5 @@
-# Course Material and FAQ for my Complete JavaScript Course
+# Deixando os frameworks de lado e focando novamente na base mais técnica do Javascript, caminhando do básico ao avançado.
+Repositório de um curso da Udemy.
 
 This repo contains starter files and the finished project files for all the projects contained in the course.
 
